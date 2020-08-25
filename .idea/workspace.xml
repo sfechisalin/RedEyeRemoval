@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1652be4-82dd-4448-afcf-cd5458bfbedc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LicenseWithoutTool$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1561107255942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="245745869">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="1" />
+          <entry key="h5" value="16" />
+          <entry key="jpg" value="107" />
+          <entry key="json" value="11" />
+          <entry key="png" value="9" />
+          <entry key="properties" value="1" />
+          <entry key="py" value="123" />
+          <entry key="pyi" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="117" />
+          <entry key="JSON" value="11" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Properties" value="1" />
+          <entry key="Python" value="123" />
+          <entry key="PythonStub" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="38" />
+          <entry key="properties" value="39" />
+          <entry key="py" value="23700" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="38" />
+          <entry key="Properties" value="39" />
+          <entry key="Python" value="23700" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="113" column="42" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/ApplicationController.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services/UserService.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eye_correction/EyeFixer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="55" column="38" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>input_shape</find>
+      <find>keep_prob</find>
+      <find>__input_shape</find>
+      <find>dense</find>
+      <find>fit</find>
+      <find>test_datagen</find>
+      <find>test_datage</find>
+      <find>0,</find>
+      <find>.fit</find>
+      <find>ModelCheckpoint</find>
+      <find>Rms</find>
+      <find>np</find>
+      <find>128</find>
+      <find>Detector</find>
+      <find>eye_coordinates</find>
+      <find>print</find>
+      <find>rin</find>
+      <find>pack</find>
+      <find>__show</find>
+      <find>button</find>
+      <find>RedEyeGui</find>
+      <find>DatabaseSection</find>
+      <find>RedEye</find>
+      <find>controller</find>
+      <find>MainFra</find>
+      <find>getMainController</find>
+      <find>message</find>
+      <find>fix</find>
+      <find>register</find>
+      <find>__fillHoles</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dataset.py" />
+        <option value="$PROJECT_DIR$/Model.py" />
+        <option value="$PROJECT_DIR$/face_detection/utils.py" />
+        <option value="$PROJECT_DIR$/face_detection/Model.py" />
+        <option value="$PROJECT_DIR$/face_detection/Detector.py" />
+        <option value="$PROJECT_DIR$/face_detection/FaceDetector.py" />
+        <option value="$PROJECT_DIR$/ui/UI.py" />
+        <option value="$PROJECT_DIR$/gui/RedEyeGui.py" />
+        <option value="$PROJECT_DIR$/dao/config.properties" />
+        <option value="$PROJECT_DIR$/controllers/RedEyeController.py" />
+        <option value="$PROJECT_DIR$/dao/UserDAO.py" />
+        <option value="$PROJECT_DIR$/controllers/ApplicationController.py" />
+        <option value="$PROJECT_DIR$/face_detection/Dataset.py" />
+        <option value="$PROJECT_DIR$/tf.py" />
+        <option value="$PROJECT_DIR$/gui/RedEyeGUI.py" />
+        <option value="$PROJECT_DIR$/eye_correction/EyeFixer.py" />
+        <option value="$PROJECT_DIR$/eye_detection/EyeDetector.py" />
+        <option value="$PROJECT_DIR$/services/UserService.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="eye_correction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="eye_detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="face_detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="saved_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseWithoutTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseWithoutTool" type="462c0819:PsiDirectoryNode" />
+              <item name="test_images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="userSe&#9;FILE&#9;file://C:/Users/Alin/PycharmProjects/LicenseWithoutTool/services/UserService.py&#10;Us&#9;FILE&#9;file://C:/Users/Alin/PycharmProjects/LicenseWithoutTool/dao/UserDAO.py&#10;UserSer&#9;FILE&#9;file://C:/Users/Alin/PycharmProjects/LicenseWithoutTool/services/UserService.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Miniconda3/envs/tensorflow" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\gui" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\face_detection" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\dataset" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\gui" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\dataset\face" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\test_images" />
+      <recent name="C:\Users\Alin\PycharmProjects\LicenseWithoutTool\eye_detection" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="LicenseWithoutTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Alin\Miniconda3\envs\tflow_gpu\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf.py" />
+      <option name="PARAMETERS" value="--image=./test_images/redEye.jpg" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1652be4-82dd-4448-afcf-cd5458bfbedc" name="Default Changelist" comment="" />
+      <created>1556530260534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556530260534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42214766" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3261745" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32348993" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986577" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32885906" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3283582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.76644295" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Miniconda3/envs/deeplearning/Lib/site-packages/numpy/__init__.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eye_correction/EyeFixer.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controllers/ApplicationController.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>join(dirName, f)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>import scipy.misc
+cv2.imshow(scipy.misc.imread(join(dirName, f)))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>cv2.imshow(cv2.imread(join(dirName, f)))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cv2.imshow(join(dirName, f))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>join(dirName, f)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dataset/face/Abdul_Majeed_Shobokshi/Abdul_Majeed_Shobokshi_0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/noface/neg-0003.jpg" />
+    <entry file="file://$PROJECT_DIR$/dataset/noface/neg-0004.jpg" />
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/keras/engine/saving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="1029" selection-start-line="1029" selection-end-line="1029" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1148" selection-start-line="1148" selection-end-line="1148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10056.23642/Detector.py" />
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="1323" selection-start-line="1323" selection-end-line="1323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa10056.40104/Detector.py" />
+    <entry file="file://$PROJECT_DIR$/test_images/test_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eye_detection/haarcascade_eye.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/face/Aaron_Guiel/Aaron_Guiel_0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/face/Abdel_Nasser_Assidi/Abdel_Nasser_Assidi_0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/face/Aaron_Tippin/Aaron_Tippin_0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detection/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/redEye.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/keras/engine/training_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_weights.h5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="128" selection-start-line="10" selection-start-column="128" selection-end-line="10" selection-end-column="128" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/tkinter/ttk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="613" selection-start-line="613" selection-end-line="613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/bg.jpg" />
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/mysql/connector/connection_cext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="481" selection-start-line="481" selection-end-line="481" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/mysql/connector/cursor_cext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="819" selection-start-line="819" selection-end-line="819" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/mysql/connector/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="920" selection-start-line="920" selection-end-line="920" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saved_images/im_1560792093.jpg" />
+    <entry file="file://$PROJECT_DIR$/saved_images/im_1560792091.jpg" />
+    <entry file="file://$PROJECT_DIR$/model.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_images/test6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/base64.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/background_image.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/envs/tflow_gpu/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28815">
+          <caret line="1698" selection-start-line="1698" selection-end-line="1698" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detection/Dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detection/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/RedEyeGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="237" lean-forward="true" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detection/FaceDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detection/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eye_detection/EyeDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/UserDAO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="113" column="42" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ApplicationController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/UserService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eye_correction/EyeFixer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
